@@ -1,0 +1,13 @@
+{
+    "cluster": "",
+    "datastore": "",
+    "vcenter_folder": "",
+    "iso_path": "",
+    "network": "",
+    "ubuntu_username": "",
+    "ubuntu_password": "",
+    "vsphere_username": "",
+    "vsphere_password": "",
+    "vcenter_address": "",
+    "vm_name": ""
+  }
